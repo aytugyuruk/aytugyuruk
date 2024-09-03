@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello everyone, I am Aytuğ and 18 years old. I am studying in the Artificial Intelligence and Data Engineering department at Istanbul University.
+Hello, I'm Aytuğ, an 18-year-old student at Istanbul University, majoring in Artificial Intelligence and Data Engineering. My passion for technology constantly drives me to develop new projects and push myself further in this field. I aim to gain in-depth knowledge in areas like coding and data analytics. I'm also a creative individual, and I strive to contribute to the community by sharing what I've learned and the projects I've developed on GitHub. My goal is to make a mark in the tech world and establish myself in this field.
 
 
 ## 🌐 Socials:
